@@ -1,0 +1,1 @@
+[![Azure Pipelines Build Status](https://itln.visualstudio.com/Screenshot%20Saver/_apis/build/status/1?branchName=master)](https://itln.visualstudio.com/Screenshot%20Saver/_build?definitionId=1&branchName=master)   
