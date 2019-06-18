@@ -1,4 +1,4 @@
-﻿namespace Screenshot_Saver {
+﻿namespace ITLN.ScreenshotSaver {
 	partial class MainForm {
 		/// <summary>
 		/// Required designer variable.
@@ -25,9 +25,9 @@
 		private void InitializeComponent() {
 			this.tabControl1 = new System.Windows.Forms.TabControl();
 			this.tabPage1 = new System.Windows.Forms.TabPage();
-			this.clipboardPanel1 = new Screenshot_Saver.ClipboardPanel();
+			this.clipboardPanel1 = new ITLN.ScreenshotSaver.ClipboardPanel();
 			this.tabPage2 = new System.Windows.Forms.TabPage();
-			this.watchPanel1 = new Screenshot_Saver.WatchPanel();
+			this.watchPanel1 = new ITLN.ScreenshotSaver.WatchPanel();
 			this.tabControl1.SuspendLayout();
 			this.tabPage1.SuspendLayout();
 			this.tabPage2.SuspendLayout();

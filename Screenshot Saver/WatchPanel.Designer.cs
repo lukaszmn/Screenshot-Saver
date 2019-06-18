@@ -1,4 +1,4 @@
-﻿namespace Screenshot_Saver {
+﻿namespace ITLN.ScreenshotSaver {
 	partial class WatchPanel {
 		/// <summary> 
 		/// Required designer variable.

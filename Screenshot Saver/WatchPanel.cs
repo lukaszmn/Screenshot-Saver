@@ -4,7 +4,7 @@ using System.Windows.Forms;
 using System.Drawing.Imaging;
 using System.IO;
 
-namespace Screenshot_Saver {
+namespace ITLN.ScreenshotSaver {
 
 	public partial class WatchPanel : UserControl {
 

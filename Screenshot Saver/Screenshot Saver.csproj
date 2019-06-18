@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{25E1E2A5-4834-4788-93C4-E629112B1543}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Screenshot_Saver</RootNamespace>
+    <RootNamespace>ITLN.ScreenshotSaver</RootNamespace>
     <AssemblyName>Screenshot Saver</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -80,6 +80,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
